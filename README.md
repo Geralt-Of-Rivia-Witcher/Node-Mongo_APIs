@@ -73,7 +73,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 4. Start the server
    ```JS
-   node app.js
+   node index.js
    ```
    The server will listen on PORT `5000`.
 
